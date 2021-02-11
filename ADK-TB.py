@@ -12,7 +12,7 @@ def help():
  [+] Created by: Mr.Cekuy
  [+] Team: ATTACKER DEAD KILLER
  [+] Youtube: https://youtube.com/channel/UCt9-cT9A6TkAcIuLRVZ9XeQ
- [+] GitHub:
+ [+] GitHub:https://github.com/MrCekuy404/DOS-ADK
 =================================
 |Tools ini dilakukan secara otomatis tidak |secara manual
 |Tools ini akan berhenti sendiri sesuai |perintah kalian
