@@ -1,9 +1,8 @@
 # Pesan
-
 ~ Kami Tidak Akan Bertanggung Jawab Ketika Tools Ini Di Gunakan Dengan Ke Keriminallan 
 
 # Cara pakai
-Pakai:python3 ADK-TB.py -t (target) -p (port) -m (jam serangan dimulai) -s (jam serangan selesai) --message (pesan)
+~ Pakai:python3 ADK-TB.py -t (target) -p (port) -m (jam serangan dimulai) -s (jam serangan selesai) --message (pesan)
 Fungsi:
 -t = targer serangan website/ip
 -p = port target website 
